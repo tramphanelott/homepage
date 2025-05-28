@@ -1,0 +1,21 @@
+{
+  "name": "ELLOT - Nạp 📱, Thẻ 📞, Thanh toán ⚡💧",
+  "short_name": "ELLOT📱⚡💧",
+  "description": "Nạp điện thoại, Thẻ điện thoại, Thẻ Game, Thanh toán hóa đơn điện nước,...",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#E64449",
+  "icons": [
+    {
+      "src": "/icon/icon-ios-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon/icon-ios-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
